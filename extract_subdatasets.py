@@ -1,7 +1,5 @@
 import os
 import tarfile
-import zipfile
-import requests
 
 CONFIG = {
     'subdatasets_dir': 'subdatasets',
